@@ -8,127 +8,129 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Danny Dwi Krestianto
+    tagline: Quality Assurance
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: dannyo_sama@yahoo.co.id
+    phone: +62 85627 36436
+    timezone: Jakarta
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: https://www.linkedin.com/in/danny-krestianto-563a8554/
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Bahasa - Indonesian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Reading
           link:
 
         - item: Cooking
           link:
 
+        - item: Traveling
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      My goal is to leverage my experience while continuing to be challenged. I have more than 10 years of experience working for Quality Assurance. Personally, I have the drive and determination to consistently meet success working independently or as part of a team effort. Also I passionate person, hard worker, fast learner, creative and enthusiastic. Strong communication and good interpersonal skills as a person. Experience with remote working environment and Tester with years of various testing experience.
+# education:
+#     title: Education
+#     info:
+#       - degree: MSc in Computer Science
+#         university: University of London
+#         time: 2011 - 2012
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - degree: BSc in Applied Mathematics
+#         university: Bristol University
+#         time: 2007 - 2011
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Quality Assurance
+        time: 2022 - Present
+        company: 42interactive, Australia (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          In daily basis, handle multiple project from clients.
+          Test of various scenarios on various platforms (desktop and devices)
+          to meet client expectation.
+            - Create QA documentation such as Test case, Planning etc.
+            - Handle content entry and user manual guide documentation for client.
+            - Create test cases and task breakdown.
+            - Manage an automation test when needed.
+            - Co-PM to manage the project.
+      - role: Senior Quality Assurance
+        time: 2021 - 2022
+        company: TreeDots, Singapore (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a company based for supplies to offload unsold food and beverage inventory at discounted prices,
+          My role as a QA to manage multiple projects from B2B, B2C and Logistic.
+          Manage QA task and deliver the task to respective QA Member.
+            - Create QA documentation such as Test case, Planning etc.
+            - Manage manual and automation test.
+            - Used to SCRUM method.
+      - role: Senior Quality Assurance
+        time: 2020 - 2021
+        company: Niagahoster Indonesia, Yogyakarta (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a SaaS company, giving service of hosting the web for customers,
+          My role as a QA is to ensure the stability of the Niagahoster host,
+          and also test for the security of the host. Also in my tenure I manage the QA team members.
+            - Manage manual and automation test.
+            - Load testing using JMeter with Taurus.
+            - Documented and propose for QA further works.
+            - Used to SCRUM method.
+      - role: Quality Assurance
+        time: 2017 - 2020
+        company: Labster, Bali
+        details: |
+          As a SaaS company, giving service of hosting the web for customers,
+          My role as a QA is to ensure the stability of the Niagahoster host,
+          and also test for the security of the host. Also in my tenure I manage the QA team members.
+            - Manage manual and automation test.
+            - Load testing using JMeter with Taurus.
+            - Documented and propose for QA further works.
+            - Used to SCRUM method.
 
 certifications:
       title: Certifications
