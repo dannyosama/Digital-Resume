@@ -16,7 +16,7 @@ sidebar:
     email: dannyo_sama@yahoo.co.id
     phone: +62 85627 36436
     timezone: Jakarta
-    citizenship:
+    citizenship: Indonesian
     website:  #do not add http://
     linkedin: danny-krestianto-563a8554
     xing: 
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: https://drive.google.com/file/d/1XX0zUHKndrmVouhOP39PITIgGIWKdPBm/view?usp=drive_link
 
     languages:
       title: Languages
@@ -57,7 +57,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My goal is to leverage my experience while continuing to be challenged. I have more than 10 years of experience working for Quality Assurance. Personally, I have the drive and determination to consistently meet success working independently or as part of a team effort. Also I passionate person, hard worker, fast learner, creative and enthusiastic. Strong communication and good interpersonal skills as a person. Experience with remote working environment and Tester with years of various testing experience.
+      My goal is to leverage my experience while continuing to be challenged. 
+      I have more than 10 years of experience working for Quality Assurance. 
+      Personally, I have the drive and determination to consistently achieve success working independently or as part of a team effort. 
+      Also I passionate person, hard worker, fast learner, creative and enthusiastic. Strong communication and good interpersonal skills as a person. 
+      Experience with remote working environments and Tester with years of various testing experience.
 # education:
 #     title: Education
 #     info:
@@ -91,7 +95,7 @@ experiences:
         time: 2022 - Present
         company: 42interactive, Australia (Remote)
         details: |
-          As a multimedia company, as a QA I handle multiple projects from clients.
+          As a multimedia company, my role as a QA is to handle multiple projects from clients.
           Test of various scenarios on various platforms (desktop and devices) to meet client expectation.
             - Create QA documentation such as Test case, Planning etc.
             - Handle content entry and user manual guide documentation for client.
@@ -105,6 +109,7 @@ experiences:
           As a company based for supplies to offload unsold food and beverage inventory at discounted prices,
           My role as a QA to manage multiple projects from B2B, B2C and Logistic.
           Manage QA task and deliver the task to respective QA Member.
+          Creating documentation of testing, test ticket as daily basis.
             - Create QA documentation such as Test case, Planning etc.
             - Manage manual and automation test.
             - Used to SCRUM method.
@@ -254,13 +259,13 @@ skills:
     title: Skills &amp; Proficiency
     
     toolset:
-      - name: Manual
-        level: 95%
+      - name: Manual test
+        level: 90%
 
       - name: Sketch & Photoshop
         level: 75%
 
-      - name: Automation
+      - name: Automation test
         level: 55%
 
       - name: Communication
@@ -273,4 +278,4 @@ skills:
         level: 60%
 
 footer: >
-    Supported by <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Powered by <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
