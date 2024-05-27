@@ -1,0 +1,22 @@
+{% assign technologies = site.data.data.sidebar.technologies %}
+{% if technologies %}
+<div class="technologies-container container-block">
+
+  <h2 class="container-block-title">
+    {{ technologies.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for technologies in technologies.info %}
+
+      {% if technologies.link %}
+      <li><a href="{{ technologies.link }}" target="_blank">{{ technologies.item }}</a></li>
+      {% else %}
+      <li>{{ technologies.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
