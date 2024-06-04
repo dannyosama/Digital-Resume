@@ -115,7 +115,7 @@ experiences:
             - Create QA documentation such as Test case, Planning etc.
             - Handle content entry and user manual guide documentation for client.
             - Create test cases and task breakdown.
-            - Manage an automation test when needed.
+            - Manage an automation test.
             - Co-PM to manage the project.
       - role: Senior Quality Assurance
         time: 2021 - 2022
@@ -144,7 +144,7 @@ experiences:
         company: Labster, Bali
         details: |
           As an education company, my role as a QA is to ensure the quality of the content of the simulation.
-          I also QA for the builder platform to endure the content developer can have stability to create the simulation.
+          I also QA for the builder platform to ensure the content developer can have stability to create the simulation.
           And as maintenance QA who gets tickets directly to be investigated. 
             - Manage 10 or more members to test Migration testing.
             - Create test documentations.
@@ -159,7 +159,7 @@ experiences:
             - Handle various testing from Web, Banner, and eDM.
             - Create test documentations. Also handle content entry and user manual guide documentation for client.
             - Create test cases and task breakdown.
-            - Create automation script for smoke testing if needed.
+            - Create automation script for smoke testing.
             - Used to SCRUM method.
       - role: Lead Quality Assurance
         time: 2011 - 2015
