@@ -15,8 +15,8 @@ sidebar:
     # Sidebar links
     email: dannyo_sama@yahoo.co.id
     phone: +62 85627 36436
-    timezone: Jakarta
-    citizenship: Indonesian
+    # timezone: Jakarta
+    citizenship: Central Java - Indonesia
     website:  #do not add http://
     linkedin: danny-krestianto-563a8554
     xing: 
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1jiqtTrx7AJ8CrPX3wEA5P17Xnr53HMPO/view?usp=drive_link
+    pdf: https://drive.google.com/file/d/1hL3bTlDTILf0ktKhmIBvMnYsZLU_oLCZ/view?usp=drive_link
 
     languages:
       title: Languages
@@ -73,7 +73,7 @@ career-profile:
     title: Career Profile
     summary: |
       My goal is to leverage my experience while continuing to be challenged. 
-      I have more than 10 years of experience working for Quality Assurance. 
+      I have more than 11 years of experience working for Quality Assurance. 
       Personally, I have the drive and determination to consistently achieve success working independently or as part of a team effort. 
       Also I passionate person, hard worker, fast learner, creative and enthusiastic. Strong communication and good interpersonal skills as a person. 
       Experience with remote working environments and Tester with years of various testing experience.
@@ -112,9 +112,9 @@ experiences:
         details: |
           As a multimedia company, my role as a QA is to handle multiple projects from clients.
           Test of various scenarios on various platforms (desktop and devices) to meet client expectation.
-            - Create QA documentation such as Test case, Planning etc.
+            - Create QA documentation such as Test cases, Planning etc.
             - Handle content entry and user manual guide documentation for client.
-            - Create test cases and task breakdown.
+            - Review the design mock up and create user flow beased on the design.
             - Manage an automation test.
             - Co-PM to manage the project.
       - role: Senior Quality Assurance
@@ -126,6 +126,7 @@ experiences:
           Manage QA task and deliver the task to respective QA Member.
           Creating documentation of testing, test ticket as daily basis.
             - Create QA documentation such as Test case, Planning etc.
+            - Review the design before implement as a feature on the apps.
             - Manage manual and automation test.
             - Used to SCRUM method.
       - role: Senior Quality Assurance
@@ -135,6 +136,7 @@ experiences:
           As a SaaS company, giving services of hosting the web for customers,
           My role as a QA is to ensure the stability of the Niagahoster host,
           and also test for the security of the host. Also in my tenure I manage the QA team members.
+          And as a senior I also create planning on how QA can involve in the projects.
             - Manage manual and automation test.
             - Load testing using JMeter with Taurus.
             - Documented and propose for QA further works.
