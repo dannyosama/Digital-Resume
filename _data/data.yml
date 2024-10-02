@@ -69,6 +69,13 @@ sidebar:
         - item: Taurus
           link: https://gettaurus.org/
 
+        - item: Java (Basic)
+          link: https://www.java.com/en/ 
+
+        - item: Jasper (Basic)
+          link: https://www.jaspersoft.com/ 
+
+
 career-profile:
     title: Career Profile
     summary: |
@@ -116,7 +123,8 @@ experiences:
             - Handle content entry and user manual guide documentation for client.
             - Review the design mock up and create user flow beased on the design.
             - Manage an automation test.
-            - Co-PM to manage the project.
+            - As a Project Manager to manage the multiple projects and Documentation.
+            - As a Business Analyst, need to create project analysis for client.
       - role: Senior Quality Assurance
         time: 2021 - 2022
         company: TreeDots, Singapore (Remote)
