@@ -45,13 +45,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Reading
+        - item: Drawing
           link:
 
         - item: Cooking
           link:
 
         - item: Traveling
+          link:
+
+        - item: Listen and creating music
           link:
 
     technologies:
@@ -69,20 +72,20 @@ sidebar:
         - item: Taurus
           link: https://gettaurus.org/
 
-        - item: Java (Basic)
-          link: https://www.java.com/en/ 
+        # - item: Java (Basic)
+        #   link: https://www.java.com/en/ 
 
-        - item: Jasper (Basic)
-          link: https://www.jaspersoft.com/ 
+        # - item: Jasper (Basic)
+        #   link: https://www.jaspersoft.com/ 
 
 
 career-profile:
     title: Career Profile
     summary: |
       My goal is to leverage my experience while continuing to be challenged. 
-      I have more than 11 years of experience working for Quality Assurance. 
+      I have more than 13 years of experience working for Quality Assurance. 
       Personally, I have the drive and determination to consistently achieve success working independently or as part of a team effort. 
-      Also I passionate person, hard worker, fast learner, creative and enthusiastic. Strong communication and good interpersonal skills as a person. 
+      Also I passionate person, hard worker, fast learner, creative, attention to the detail, and enthusiastic. Strong communication and good interpersonal skills as a person. 
       Experience with remote working environments and Tester with years of various testing experience.
 # education:
 #     title: Education
@@ -114,7 +117,7 @@ experiences:
     title: Experiences
     info:
       - role: Quality Assurance
-        time: 2022 - Present
+        time: 2022 - 2024
         company: 42interactive, Australia (Remote)
         details: |
           As a multimedia company, my role as a QA is to handle multiple projects from clients.
@@ -164,7 +167,7 @@ experiences:
         time: 2015 - 2017
         company: Ogilvy, Bali
         details: |
-          As an advertisement company, my role as a QA is to ensure the quality of the content of the product.
+          As an advertisement company based on Australia, my role as a QA is to ensure the quality of the content of the product.
           Various testing are done from various platform from desktop to devices.
             - Handle various testing from Web, Banner, and eDM.
             - Create test documentations. Also handle content entry and user manual guide documentation for client.
