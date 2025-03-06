@@ -82,11 +82,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My goal is to leverage my experience while continuing to be challenged. 
-      I have more than 13 years of experience working for Quality Assurance. 
-      Personally, I have the drive and determination to consistently achieve success working independently or as part of a team effort. 
-      Also I passionate person, hard worker, fast learner, creative, attention to the detail, and enthusiastic. Strong communication and good interpersonal skills as a person. 
-      Experience with remote working environments and Tester with years of various testing experience.
+      My goal is to leverage my experience while embracing new challenges. With over 13 years of experience in Quality Assurance, I have developed a strong ability to work independently and collaboratively to drive successful outcomes. I am a passionate and hardworking professional with a keen eye for detail, a creative mindset, and a commitment to continuous learning. Additionally, I possess strong communication and interpersonal skills, allowing me to effectively contribute in both in-person and remote work environments. My extensive testing experience across various domains further strengthens my ability to ensure high-quality product delivery.
 # education:
 #     title: Education
 #     info:
@@ -120,72 +116,77 @@ experiences:
         time: 2022 - 2024
         company: 42interactive, Australia (Remote)
         details: |
-          As a multimedia company, my role as a QA is to handle multiple projects from clients.
-          Test of various scenarios on various platforms (desktop and devices) to meet client expectation.
-            - Create QA documentation such as Test cases, Planning etc.
-            - Handle content entry and user manual guide documentation for client.
-            - Review the design mock up and create user flow beased on the design.
-            - Manage an automation test.
-            - As a Project Manager to manage the multiple projects and Documentation.
-            - As a Business Analyst, need to create project analysis for client.
+          As a multimedia company, my role as a QA involves managing multiple client projects and testing various scenarios across different platforms (desktop and mobile devices) to ensure they meet client expectations.
+            - Create QA documentation, including test cases, test planning, and reports.
+            - Manage content entry and develop user manual guides for clients.
+            - Review design mockups and create user flows based on the design.
+            - Oversee automation testing processes.
+            - Manage testing for web and mobile applications on both iOS and Android devices.
+            - Conduct compatibility testing to ensure optimal performance across different platforms.
+            - As a Co-Project Manager, handling multiple projects and documentation.
+            - As a Business Analyst, conducting project analyses for clients.
       - role: Senior Quality Assurance
         time: 2021 - 2022
         company: TreeDots, Singapore (Remote)
         details: |
-          As a company based for supplies to offload unsold food and beverage inventory at discounted prices,
-          my role as a QA to manage multiple projects from B2B, B2C and Logistic.
-          Manage QA task and deliver the task to respective QA Member.
-          Creating documentation of testing, test ticket as daily basis.
-            - Create QA documentation such as Test case, Planning etc.
-            - Review the design before implement as a feature on the apps.
-            - Manage manual and automation test.
-            - Used to SCRUM method.
+          As a company focused on supplying discounted unsold food and beverage inventory, my role as a QA involves managing multiple projects across B2B, B2C, and Logistics. I oversee QA tasks, assign them to the respective QA members, and ensure timely delivery. Additionally, I am responsible for creating and maintaining test documentation, including test tickets, on a daily basis.
+            - Create QA documentation such as test cases, test plans, and reports.
+            - Review designs before implementation as new features in the application.
+            - Manage testing for web and mobile applications on both iOS and Android devices.
+            - Manage both manual and automation testing processes.
+            - Work within an Agile SCRUM framework.
       - role: Senior Quality Assurance
         time: 2020 - 2021
         company: Niagahoster Indonesia, Yogyakarta (Remote)
         details: |
-          As a SaaS company, giving services of hosting the web for customers,
-          My role as a QA is to ensure the stability of the Niagahoster host,
-          and also test for the security of the host. Also in my tenure I manage the QA team members.
-          And as a senior I also create planning on how QA can involve in the projects.
-            - Manage manual and automation test.
-            - Load testing using JMeter with Taurus.
-            - Documented and propose for QA further works.
-            - Used to SCRUM method.
+          As a SaaS company providing web hosting services to customers, my role as a QA is to ensure the stability and security of the Niagahoster host. Throughout my tenure, I have also managed QA team members and, as a senior, have been responsible for planning how QA can be effectively involved in projects.
+            - Manage both manual and automation testing processes.
+            - Conduct load testing using JMeter with Taurus.
+            - Document and propose improvements for QA processes and future initiatives.
+            - Work within an Agile SCRUM framework.
       - role: Quality Assurance
         time: 2017 - 2020
         company: Labster, Bali
         details: |
-          As an education company, my role as a QA is to ensure the quality of the content of the simulation.
-          I also QA for the builder platform to ensure the content developer can have stability to create the simulation.
-          And as maintenance QA who gets tickets directly to be investigated. 
-            - Manage 10 or more members to test Migration testing.
-            - Create test documentations.
-            - As PIC Maintenance, team-mate with Customer Success team to solve client issues.
-            - Used to SCRUM method.
+          As an education company, my role as a QA is to ensure the quality and accuracy of simulation content. I also perform QA for the builder platform to ensure stability, allowing content developers to create simulations seamlessly. Additionally, I handle maintenance QA, investigating tickets directly to identify and resolve issues.
+            - Manage a team of 10 or more members for migration testing.
+            - Manage to testing
+            - Create and maintain test documentation.
+            - Manage testing for web and mobile applications on both iOS and Android devices.
+            - Conduct compatibility testing to ensure optimal performance across different platforms.
+            - As PIC for Maintenance, collaborating with the Customer Success team to resolve client issues.
+            - Work within an Agile SCRUM framework.
       - role: Quality Assurance
         time: 2015 - 2017
         company: Ogilvy, Bali
         details: |
-          As an advertisement company based on Australia, my role as a QA is to ensure the quality of the content of the product.
-          Various testing are done from various platform from desktop to devices.
-            - Handle various testing from Web, Banner, and eDM.
-            - Create test documentations. Also handle content entry and user manual guide documentation for client.
-            - Create test cases and task breakdown.
-            - Create automation script for smoke testing.
-            - Used to SCRUM method.
+          As an advertising company based in Australia, my role as a QA is to ensure the quality and accuracy of product content. I conduct various tests across multiple platforms, from desktop to mobile devices.
+            - Perform testing on web applications, banners, and eDM (electronic direct mail).
+            - Create and maintain test documentation, including content entry and user manual guides for clients.
+            - Develop test cases and break down tasks for efficient execution.
+            - Manage testing for web and mobile applications on both iOS and Android devices.
+            - Conduct compatibility testing to ensure optimal performance across different platforms.
+            - Create automation scripts for regression testing.
+            - Work within an Agile SCRUM framework.
       - role: Lead Quality Assurance
         time: 2011 - 2015
         company: Gameloft, Yogyakarta
         details: |
-          As a game company, my role as a QA is to ensure the quality of the game.
-          Various testing are done from various platform from desktop to devices. 
-          From gameplay test to localisation test.
-            - Handle South East Asia request for testing purpose.
-            - Experience as a Lead Supervisors QA. Leading 12 members in charge for various testing.
-            - Manage 30-50 members to Massive performance and/or compatibility testing.
-            - Lead the team to delegate and manage all testing purposes.
-            - Create test cases and test planning.
+          As a gaming company, my role as a QA is to ensure the quality and performance of the game. I conduct various tests across multiple platforms, from desktop to mobile devices, covering gameplay (including game design), stress testing, stability testing, and localization testing.
+            - Manage and coordinate testing requests across Southeast Asia studios, ensuring thorough test coverage and smooth execution.
+            - Experienced as a Lead QA Supervisor, overseeing 12 team members responsible for various testing processes.
+            - Manage 30–50 team members for massive performance and compatibility testing.
+            - Lead the team in delegating and managing all testing activities.
+            - Develop test cases and test plans to ensure comprehensive quality assurance.
+            - Conduct compatibility testing to ensure optimal performance across different platforms.
+      - role: Senior Customer Service Representative
+        time: 2010 - 2011
+        company: PT XL Axiata, Yogyakarta
+        details: |
+          As a telecommunications company, my role as a Customer Service Representative is to provide exceptional support and ensure customer satisfaction at the highest level.
+            - Greet customers both in person and over the phone.
+            - Address inquiries regarding account status and resolve customer concerns.
+            - Handle customer issues and complaints via phone, in-person interactions, and written correspondence.
 
 certifications:
       title: Certifications
@@ -198,11 +199,8 @@ certifications:
           # credentialurl: www.google.com
           credentialname: Sitecore
           details: |
-            A Sitecore certification demonstrates proficiency in using the Sitecore Experience Platform, 
-            a leading digital experience platform used for content management, digital marketing, and customer experience management
-
-            These certifications are designed for developers, marketers, 
-            and other professionals who work with Sitecore to build and manage digital solutions.
+            A Sitecore certification validates expertise in the Sitecore Experience Platform, a leading digital experience platform used for content management, digital marketing, and customer experience management.
+            These certifications are designed for developers, marketers, and other professionals who work with Sitecore to build, optimize, and manage digital solutions effectively.
         - name: Eyeka
           start: 2014
           # end:
@@ -211,10 +209,8 @@ certifications:
           # credentialurl: www.github.com
           credentialname: Eyeka
           details: |
-            Eyeka, known for its creative crowdsourcing platform. Eyeka were to offer a certification program, 
-            it would aim to validate skills and knowledge in creative crowdsourcing, content creation, and innovative problem-solving. 
-            The certification should be valuable for creative professionals, marketers, and businesses 
-            looking to leverage crowdsourced content for marketing and innovation purposes.
+            Eyeka, known for its creative crowdsourcing platform, could offer a certification program designed to validate expertise in creative crowdsourcing, content creation, and innovative problem-solving.
+            This certification would be valuable for creative professionals, marketers, and businesses seeking to leverage crowdsourced content for marketing and innovation purposes.
 
 # projects:
 #     title: Projects
@@ -304,7 +300,7 @@ skills:
         level: 85%
 
       - name: Leadership
-        level: 60%
+        level: 80%
 
 footer: >
     Powered by <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
