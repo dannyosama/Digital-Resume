@@ -78,6 +78,15 @@ sidebar:
         # - item: Jasper (Basic)
         #   link: https://www.jaspersoft.com/ 
 
+    # portofolios:
+    #   title: Portofolios
+    #   info:
+    #     - item: Digital Resume
+    #       link: https://dannyosama.github.io/Digital-Resume/
+          
+    #     - item: CI/CD-Git Action
+    #       link: https://cucumber.io/
+
 
 career-profile:
     title: Career Profile
@@ -283,20 +292,20 @@ skills:
     title: Skills &amp; Proficiency
     
     toolset:
-      - name: Manual test
+      - name: Functional Testing
         level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Image Creator + Editor
         level: 75%
 
-      - name: Automation
+      - name: Automation Testing
         level: 55%
 
       - name: Communication
         level: 95%
 
       - name: Documentation
-        level: 85%
+        level: 90%
 
       - name: Leadership
         level: 80%

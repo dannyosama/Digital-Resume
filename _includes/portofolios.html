@@ -1,0 +1,22 @@
+{% assign portofolios = site.data.data.sidebar.portofolios %}
+{% if portofolios %}
+<div class="portofolios-container container-block">
+
+  <h2 class="container-block-title">
+    {{ portofolios.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for portofolios in portofolios.info %}
+
+      {% if portofolios.link %}
+      <li><a href="{{ portofolios.link }}" target="_blank">{{ portofolios.item }}</a></li>
+      {% else %}
+      <li>{{ portofolios.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
