@@ -17,7 +17,7 @@ sidebar:
     phone: +62 85627 36436
     # timezone: Jakarta
     citizenship: Central Java - Indonesia
-    website:  #do not add http://
+    website:  #add or not http:// or https:// still working
     linkedin: danny-krestianto-563a8554
     xing: 
     github: 
@@ -57,20 +57,20 @@ sidebar:
         - item: Listen and creating music
           link:
 
-    technologies:
-      title: Technologies
-      info:
-        - item: Cypress
-          link: https://www.cypress.io/
+    # technologies:
+    #   title: Technologies
+    #   info:
+    #     - item: Cypress
+    #       link: https://www.cypress.io/
           
-        - item: Cucumber
-          link: https://cucumber.io/
+    #     - item: Cucumber
+    #       link: https://cucumber.io/
 
-        - item: JMeter
-          link: https://jmeter.apache.org/
+    #     - item: JMeter
+    #       link: https://jmeter.apache.org/
 
-        - item: Taurus
-          link: https://gettaurus.org/
+    #     - item: Taurus
+    #       link: https://gettaurus.org/
 
         # - item: Java (Basic)
         #   link: https://www.java.com/en/ 
@@ -78,11 +78,11 @@ sidebar:
         # - item: Jasper (Basic)
         #   link: https://www.jaspersoft.com/ 
 
-    # portofolios:
-    #   title: Portofolios
-    #   info:
-    #     - item: Digital Resume
-    #       link: https://dannyosama.github.io/Digital-Resume/
+    portofolios:
+      title: Portofolios
+      info:
+        - item: Digital Resume
+          link: https://dannyosama.github.io/Digital-Resume/
           
     #     - item: CI/CD-Git Action
     #       link: https://cucumber.io/
@@ -288,19 +288,30 @@ certifications:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
+
 skills:
     title: Skills &amp; Proficiency
     
     toolset:
-      - name: Functional Testing
+      - name: Testing Skills
         level: 90%
-
-      - name: Image Creator + Editor
-        level: 75%
+        details: |
+            User Acceptance Testing, Integration Testing, Exploratory Testing, Regression Testing, Compatibility Testing and more.
 
       - name: Automation Testing
         level: 55%
+        details: |
+            End to End Testing (Cypress, Selenium), Load Testing, API Testing.
 
+      - name: General Tools
+        level: 80%
+        details: |
+            Image Creator + Editor (Adobe Photoshop, Adobe Ilustrator/CorelDraw, Snagit), Design Creator + Editor (Figma, Zeplin), Video Creator and Editor (Screencast O-Matic, Vegas Pro, Microsoft Clipchamp, Snagit), Code Editors & IDE (Visual Studio, Intellij IDEA, Notepad++), Postman, MySQL, Browserstack, JMeter, Git, Microsoft Office, AI (ChatGPT + BlackboxAI), JiRA, Confluence, ClickUp, Notion.
+
+softskills:
+    title: Soft Skills
+    
+    toolset:
       - name: Communication
         level: 95%
 
@@ -309,6 +320,12 @@ skills:
 
       - name: Leadership
         level: 80%
+
+      - name: Project Management
+        level: 80%
+
+      - name: Organisation
+        level: 70%
 
 footer: >
     Powered by <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
