@@ -78,11 +78,11 @@ sidebar:
         # - item: Jasper (Basic)
         #   link: https://www.jaspersoft.com/ 
 
-    portofolios:
-      title: Portofolios
-      info:
-        - item: Digital Resume
-          link: https://dannyosama.github.io/Digital-Resume/
+    # portofolios:
+    #   title: Portofolios
+    #   info:
+    #     - item: Digital Resume
+    #       link: https://dannyosama.github.io/Digital-Resume/
           
     #     - item: CI/CD-Git Action
     #       link: https://cucumber.io/
@@ -294,17 +294,17 @@ skills:
     
     toolset:
       - name: Testing Skills
-        level: 90%
+        # level: 90%
         details: |
             User Acceptance Testing, Integration Testing, Exploratory Testing, Regression Testing, Compatibility Testing and more.
 
       - name: Automation Testing
-        level: 55%
+        # level: 55%
         details: |
             End to End Testing (Cypress, Selenium), Load Testing, API Testing.
 
       - name: General Tools
-        level: 80%
+        # level: 80%
         details: |
             Image Creator + Editor (Adobe Photoshop, Adobe Ilustrator/CorelDraw, Snagit), Design Creator + Editor (Figma, Zeplin), Video Creator and Editor (Screencast O-Matic, Vegas Pro, Microsoft Clipchamp, Snagit), Code Editors & IDE (Visual Studio, Intellij IDEA, Notepad++), Postman, MySQL, Browserstack, JMeter, Git, Microsoft Office, AI (ChatGPT + BlackboxAI), JiRA, Confluence, ClickUp, Notion.
 
