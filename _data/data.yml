@@ -301,12 +301,12 @@ skills:
       - name: Automation Testing
         # level: 55%
         details: |
-            End to End Testing (Cypress, Selenium), Load Testing, API Testing.
+            End to End Testing, Load Testing, API Testing.
 
       - name: General Tools
         # level: 80%
         details: |
-            Image Creator + Editor (Adobe Photoshop, Adobe Ilustrator/CorelDraw, Snagit), Design Creator + Editor (Figma, Zeplin), Video Creator and Editor (Screencast O-Matic, Vegas Pro, Microsoft Clipchamp, Snagit), Code Editors & IDE (Visual Studio, Intellij IDEA, Notepad++), Postman, MySQL, Browserstack, JMeter, Git, Microsoft Office, AI (ChatGPT + BlackboxAI), JiRA, Confluence, ClickUp, Notion.
+            Image Creator + Editor (Adobe Photoshop, Adobe Ilustrator/CorelDraw, Snagit), Design Creator + Editor (Figma, Zeplin), Video Creator + Editor (Screencast O-Matic, Vegas Pro, Microsoft Clipchamp, Snagit), Code Editors & IDE, Postman, MySQL, Browserstack, JMeter, Git, Microsoft Office, JiRA, Confluence, ClickUp, Notion.
 
 softskills:
     title: Soft Skills
