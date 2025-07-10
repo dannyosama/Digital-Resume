@@ -91,7 +91,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My goal is to leverage my experience while embracing new challenges. With over 13 years of experience in Quality Assurance, I have developed a strong ability to work independently and collaboratively to drive successful outcomes. I am a passionate and hardworking professional with a keen eye for detail, a creative mindset, and a commitment to continuous learning. Additionally, I possess strong communication and interpersonal skills, allowing me to effectively contribute in both in-person and remote work environments. My extensive testing experience across various domains further strengthens my ability to ensure high-quality product delivery.
+      My goal is to leverage my experience while embracing new challenges. With over 14 years of experience in Quality Assurance, I have developed a strong ability to work independently and collaboratively to drive successful outcomes. I am a passionate and hardworking professional with a keen eye for detail, a creative mindset, and a commitment to continuous learning. Additionally, I possess strong communication and interpersonal skills, allowing me to effectively contribute in both in-person and remote work environments. My extensive testing experience across various domains further strengthens my ability to ensure high-quality product delivery.
 # education:
 #     title: Education
 #     info:
@@ -125,76 +125,94 @@ experiences:
         time: 2022 - 2024
         company: 42interactive, Australia (Remote)
         details: |
-          As a multimedia company, my role as a QA involves managing multiple client projects and testing various scenarios across different platforms (desktop and mobile devices) to ensure they meet client expectations.
-            - Create QA documentation, including test cases, test planning, and reports.
-            - Manage content entry and develop user manual guides for clients.
-            - Review design mockups and create user flows based on the design.
-            - Oversee automation testing processes.
-            - Manage testing for web and mobile applications on both iOS, Android, and VR devices.
-            - Conduct compatibility testing to ensure optimal performance across different platforms.
-            - As a Co-Project Manager, handling multiple projects and documentation.
-            - As a Business Analyst, conducting project analyses for clients.
+          As a multimedia company, my role as a QA involves managing multiple client projects and testing various scenarios across different platforms (desktop and mobile devices) to ensure they meet client expectations. 
+            - Create QA documentation, including test cases, test planning, and reports. 
+            - Manage content entry and develop user manual guides for clients. 
+            - Review design mockups and create user flows based on the design. 
+            - Oversee automation testing processes. 
+            - Manage testing for web and mobile applications on iOS, Android, and VR devices. 
+            - Conduct compatibility testing to ensure optimal performance across different platforms. 
+            - As a Co-Project Manager, handling multiple projects and documentation. 
+            - As a Business Analyst, I conduct project analyses for clients. 
+ 
+            Achievement 
+            - As part of the QA team, I effectively manage story points to optimize and estimate to a minimum while maintaining high product quality. 
+            - As a Co-Project Manager, I successfully led a team to deliver a full project from scratch to deployment within one week. 
       - role: Senior Quality Assurance
         time: 2021 - 2022
         company: TreeDots, Singapore (Remote)
         details: |
-          As a company focused on supplying discounted unsold food and beverage inventory, my role as a QA involves managing multiple projects across B2B, B2C, and Logistics. I oversee QA tasks, assign them to the respective QA members, and ensure timely delivery. Additionally, I am responsible for creating and maintaining test documentation, including test tickets, on a daily basis.
-            - Create QA documentation such as test cases, test plans, and reports.
-            - Review designs before implementation as new features in the application.
-            - Manage testing for web and mobile applications on both iOS and Android devices.
-            - Manage both manual and automation testing processes.
-            - Work within an Agile SCRUM framework.
+          As a company focused on supplying discounted unsold food and beverage inventory, my role as a QA involves managing multiple projects across B2B, B2C, and Logistics. I oversee QA tasks, assign them to the respective QA members, and ensure timely delivery. Additionally, I am responsible for creating and maintaining test documentation, including test tickets, on a daily basis. 
+            - Create QA documentation such as test cases, test plans, and reports. 
+            - Review designs before the implementation of new features in the application. 
+            - Manage testing for web and mobile applications on both iOS and Android devices. 
+            - Manage both manual and automation testing processes. 
+            - Work within an Agile SCRUM framework. 
       - role: Senior Quality Assurance
         time: 2020 - 2021
-        company: Niagahoster Indonesia, Yogyakarta (Remote)
+        company: Hostinger, Yogyakarta (Remote)
         details: |
-          As a SaaS company providing web hosting services to customers, my role as a QA is to ensure the stability and security of the Niagahoster host. Throughout my tenure, I have also managed QA team members and, as a senior, have been responsible for planning how QA can be effectively involved in projects.
-            - Manage both manual and automation testing processes.
-            - Conduct load testing using JMeter with Taurus.
-            - Document and propose improvements for QA processes and future initiatives.
-            - Work within an Agile SCRUM framework.
+          As a SaaS company providing web hosting services to customers, my role as a QA is to ensure the stability and security of the Niagahoster host. Throughout my tenure, I have also managed QA team members and, as a senior, have been responsible for planning how QA can be effectively involved in projects. 
+          - Manage both manual and automation testing processes. 
+          - Conduct load testing using JMeter with Taurus. 
+          - Document and propose improvements for QA processes and future initiatives. 
+          - Work within an Agile SCRUM framework. 
       - role: Quality Assurance
         time: 2017 - 2020
         company: Labster, Bali
         details: |
           As an education company, my role as a QA is to ensure the quality and accuracy of simulation content. I also perform QA for the builder platform to ensure stability, allowing content developers to create simulations seamlessly. Additionally, I handle maintenance QA, investigating tickets directly to identify and resolve issues.
-            - Manage a team of 10 or more members for migration testing.
-            - Create and maintain test documentation.
-            - Manage testing for web and mobile applications on both iOS, Android, and VR devices.
-            - Conduct compatibility testing to ensure optimal performance across different platforms.
-            - As PIC for Maintenance, collaborating with the Customer Success team to resolve client issues.
-            - Work within an Agile SCRUM framework.
+          - I have responsibilities to manage a team of 10 or more members for migration testing.
+          - I have responsibilities to create and maintain test documentation.
+          - I am managing the testing for web and mobile applications on both iOS, Android, and VR devices.
+          - Conduct compatibility testing to ensure optimal performance across different platforms.
+          - As the PIC for Maintenance, I collaborate with the Customer Success team to resolve client issues.
+          - Work within an Agile SCRUM framework.
+
+          Achievement
+          - Earned a badge for high success rate in resolving customer issue tickets efficiently and effectively.
       - role: Quality Assurance
         time: 2015 - 2017
         company: Ogilvy, Bali
         details: |
-          As an advertising company based in Australia, my role as a QA is to ensure the quality and accuracy of product content. I conduct various tests across multiple platforms, from desktop to mobile devices.
-            - Perform testing on web applications, banners, and eDM (electronic direct mail).
-            - Create and maintain test documentation, including content entry and user manual guides for clients.
-            - Develop test cases and break down tasks for efficient execution.
-            - Manage testing for web and mobile applications on both iOS and Android devices.
-            - Conduct compatibility testing to ensure optimal performance across different platforms.
-            - Create automation scripts for regression testing.
-            - Work within an Agile SCRUM framework.
-      - role: Lead Quality Assurance
+          As an advertising company based in Australia, my role as a QA is to ensure the quality and accuracy of product content. I conduct various tests across multiple platforms, from desktop to mobile devices. 
+          - Perform testing on web applications, banners, and eDM (electronic direct mail). 
+          - Create and maintain test documentation, including content entry and user manual guides for clients. 
+          - Develop test cases and break down tasks for efficient execution. 
+          - Manage testing for web and mobile applications on both iOS and Android devices. 
+          - Conduct compatibility testing to ensure optimal performance across different platforms. 
+          - Create automation scripts for regression testing. 
+          - Work within an Agile SCRUM framework. 
+ 
+          Achievement  
+          - Consistently delivered 100% of projects on time, meeting client expectations and deadlines. 
+          - Quick to adapt to new work environments, with a successful track record transitioning from the gaming industry to web-based platforms.  
+      - role: Quality Assurance Lead
         time: 2011 - 2015
         company: Gameloft, Yogyakarta
         details: |
-          As a gaming company, my role as a QA is to ensure the quality and performance of the game. I conduct various tests across multiple platforms, from desktop to mobile devices, covering gameplay (including game design), stress testing, stability testing, and localization testing.
-            - Manage and coordinate testing requests across Southeast Asia studios, ensuring thorough test coverage and smooth execution.
-            - Experienced as a Lead QA Supervisor, overseeing 12 team members responsible for various testing processes.
-            - Manage 30–50 team members for massive performance and compatibility testing.
-            - Lead the team in delegating and managing all testing activities.
-            - Develop test cases and test plans to ensure comprehensive quality assurance.
-            - Conduct compatibility testing to ensure optimal performance across different platforms.
+          As a gaming company, my role as a QA is to ensure the quality and performance of the game. I conduct various tests across multiple platforms, from desktop to mobile devices, covering gameplay (including game design), stress testing, stability testing, and localization testing. 
+          - Manage and coordinate testing requests across Southeast Asia studios, ensuring thorough test coverage and smooth execution. 
+          - Experienced as a Lead QA Supervisor, overseeing 12 members responsible for various testing processes. 
+          - I have responsibilities to manage 30–50 members for massive performance and compatibility testing. 
+          - Lead the team in delegating and managing all testing activities. 
+          - Develop test cases and test plans to ensure comprehensive quality assurance. 
+          - Conduct compatibility testing to ensure optimal performance across different platforms. 
+ 
+          Achievement 
+          - Great sales of my project. Asphalt 6: Adrenaline and Dark Knight Rises. 
+          - Leading South East Asia for Localization testing. 
       - role: Senior Customer Service Representative
         time: 2010 - 2011
-        company: PT XL Axiata, Yogyakarta
+        company: XL Smart, Yogyakarta
         details: |
-          As a telecommunications company, my role as a Customer Service Representative is to provide exceptional support and ensure customer satisfaction at the highest level.
-            - Greet customers both in person and over the phone.
-            - Address inquiries regarding account status and resolve customer concerns.
-            - Handle customer issues and complaints via phone, in-person interactions, and written correspondence.
+          As a telecommunications company, my role as a Customer Service Representative is to provide exceptional support and ensure customer satisfaction at the highest level. 
+          - Assist customers with their issues on a daily basis, ensuring timely and effective resolution. 
+          - Answer questions regarding the status of various accounts and attend to problems or complaints from customers in person, on the telephone, or by written correspondence. 
+ 
+          Achievement 
+          - Success rate 90%-95% of customer satisfaction. 
+          - Focused on minimizing repeat calls by providing effective management for first contact problem resolution. 
 
 certifications:
       title: Certifications
